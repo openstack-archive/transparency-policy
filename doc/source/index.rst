@@ -36,6 +36,7 @@ implement that strategy to assist in growing the ecosystem around
 OpenStack’s software, strengthening the platform and protecting the
 OpenStack brand. For these reasons, OpenStack adopts the following
 approach to information disclosure to the public under this Policy:
+
 (a) Board meetings (except executive sessions) are open to the public
 for dial-in participation. Meeting times and dial-in details are
 posted to OpenStack’s mailing list and at a governance wiki
@@ -44,13 +45,16 @@ posted to OpenStack’s mailing list and at a governance wiki
 Vice Chairman of the Board will make best effort to publish the date,
 time and dial-in details at least one week prior to the meeting on the
 Governance Wiki and Foundation mailing list.
+
 (b) In advance of Board meetings, agendas are also posted to the
 Governance Wiki.
+
 (c) The Executive Director posts a summary of the Board meeting after
 the meeting to the OpenStack Foundation mailing list. The Executive
 Director will make best effort to post a summary to the mailing list
 within 72 hours of the meeting, after which point Board Members are
 able to comment or post their own summaries.
+
 (d) After Board meetings, the final versions of the Board minutes,
 including records of the votes of Board Members are posted to the
 Governance Wiki. The Secretary and Chairman of the Board will make
@@ -60,6 +64,7 @@ of the meeting.
 public for read-only subscription, but the Board may maintain a
 separate mailing list or document store to discuss confidential topics
 as defined below.
+
 (f) OpenStack Foundation Committees and working groups, such as the
 Training Working Group and the Election Committee, are subject to the
 same standards as the Board in terms of posting meeting dates, agendas
@@ -68,14 +73,17 @@ considered to be confidential information defined in section 3.1.
 Committees and Working Groups should make an effort to solicit
 community input and participation on policy issues by the use of
 mailing lists, in-person meetings, webinars and phone calls.
+
 (g) The contents of final applications for Platinum Members and Gold
 Members shall be made available on the Governance Wiki no later than
 three days prior to the Board meeting during which they are being
 considered.
+
 (h) The Chairman of the Board shall provide an annual summary of
 OpenStack’s performance, which will include a financial overview, a
 summary of major decisions, achievements and challenges of the prior
 year.
+
 (i) Communication regarding Foundation governance will take place on
 the Foundation mailing list accessible at `http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation`_.
 
