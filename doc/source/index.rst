@@ -77,8 +77,7 @@ OpenStack’s performance, which will include a financial overview, a
 summary of major decisions, achievements and challenges of the prior
 year.
 (i) Communication regarding Foundation governance will take place on
-the Foundation mailing list accessible at `http://lists.openstack.org
-/cgi-bin/mailman/listinfo/foundation`_.
+the Foundation mailing list accessible at `http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation`_.
 
 2.2 To put the community first, OpenStack Board Members and Employees
 will work to share or discuss community and governance information
